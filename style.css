@@ -1,0 +1,17 @@
+body {
+    font-family:'Courier New', Courier, monospace
+}
+
+header, footer {
+    background-color: #1F2937;
+    color: #f9faf8;
+}
+
+content {
+    background-color: #f9faf8;
+    color: #1f2937;
+}
+
+.quote {
+    background-color: #e5e7eb;
+}

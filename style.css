@@ -1,4 +1,6 @@
 body {
+    margin: 0;
+    padding: 0;
     font-family:'Courier New', Courier, monospace
 }
 
@@ -12,6 +14,35 @@ content {
     color: #1f2937;
 }
 
-.quote {
+.quote-section {
     background-color: #e5e7eb;
+    padding: 10px;
+    margin: 0;
+    width: fit-content;
+}
+
+.container-signup{
+    background-color: #f9faf8;
+    margin: 20px;
+}
+
+
+.signup, .signup button {
+    background-color: #3882f6;
+    display: block;
+
+}
+
+.text-signup {
+    display: flex;
+}
+
+.left, .right {
+    
+}
+
+footer {
+    text-align: center;
+    margin: 0;
+    padding: 5px;
 }
